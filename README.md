@@ -4,8 +4,6 @@
 The lifecycle of a Red Team attack includes: Information Gathering, Initial Access to gain privileges, Persistence, Privilege Escalation, Network Reconnaissance, Lateral Movement, Data Analysis (and further persistence based on this), and finally Cleanup & Exiting the target environment after all attacks.
 
 
----
-
 ## Related Resource List
 - https://mitre-attack.github.io/ – MITRE organization’s summary of attack techniques
 - https://huntingday.github.io – MITRE | ATT&CK Chinese site
@@ -29,7 +27,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/duoergun0729/nlp – Open-source NLP introductory book
 - https://www.freebuf.com/articles/web/195304.html – One‑sentence backdoor techniques
 
----
+ 
 
 ## Offensive & Defensive Testing Manuals
 - https://micropoor.blogspot.com/2019/01/php8.html – PHP Security Morning 8 AM series: Continuous Penetration – Micropoor
@@ -48,7 +46,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/Kinimiwar/Penetration-Testing – Quality pentest resources
 - https://github.com/jshaw87/Cheatsheets – Pentest / security cheat sheets & notes
 
----
+ 
 
 ## Intranet Security Documents
 - https://attack.mitre.org/wiki/Lateral_Movement – MITRE: Lateral Movement summary
@@ -57,7 +55,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/l3m0n/pentest_study – Learn intranet penetration from zero
 - https://github.com/Ridter/Intranet_Penetration_Tips – Intranet penetration tips
 
----
+ 
 
 ## Study Manuals & Resources
 - https://github.com/HarmJ0y/CheatSheets – Cheat sheets: Beacon/Cobalt Strike, PowerView, PowerUp, Empire, PowerSploit
@@ -84,7 +82,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/ym2011/SecurityManagement – Security management, ISO27001, Classified Protection
 - https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q – Blockchain & Ethereum smart contract audit
 
----
+ 
 
 ## Checklists
 - https://github.com/slowmist/eos-bp-nodes-security-checklist – EOS BP nodes security checklist
@@ -96,7 +94,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/Jsitech/JShielder – Linux server one‑click hardening script
 - https://github.com/wstart/DB_BaseLine – Database baseline check tool
 
----
+ 
 
 ## Product Design Docs
 - https://www.freebuf.com/sectool/135032.html – Build high-interaction stealth honeypot
@@ -105,7 +103,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/crazywa1ker/DarthSidious-Chinese – DarthSidious Chinese version: AD pentest
 - https://paper.seebug.org/772/ – Fuzz ICS protocols with KittyFuzzer + ISF
 
----
+ 
 
 ## Learning Labs
 - https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/ – 124 legal hacking practice sites
@@ -140,14 +138,14 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/chryzsh/DarthSidious – AD environment setup, pentest, defense
 - https://github.com/c0ny1/xxe-lab – XXE vulnerability demo (PHP, Java, Python, C#)
 
----
+ 
 
 ## Vulnerability Reproduction
 - https://github.com/vulhub/vulhub – Vulnerability environment collection (Docker)
 - https://github.com/Medicean/VulApps – Vulnerability & tool environments (Docker)
 - https://github.com/bingohuang/docker-labs – Online Docker labs
 
----
+ 
 
 ## Open‑Source Vulnerability Databases
 - https://wooyun.kieran.top/#!/ – WooYun Drops (pre‑2016)
@@ -163,7 +161,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://www.exploit-db.com – Offensive Security Exploit Database
 - https://nvd.nist.gov/vuln/search – US NVD
 
----
+ 
 
 ## Toolkits
 - http://www.4hou.com/web/11241.html – Complete attack simulation tools list
@@ -206,7 +204,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/jakubroztocil/httpie – HTTP client
 - https://www.getpostman.com/ – HTTP client (GUI)
 
----
+ 
 
 ## Vulnerability Collection & PoC/Exp
 - https://github.com/Lcys/Python_PoC – Python3 PoC/Exp template
@@ -240,14 +238,14 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC – Jenkins pre‑auth RCE
 - https://github.com/WyAtu/CVE-2018-20250 – WinRar exploit
 
----
+ 
 
 ## IoT / Router / ICS Vulns
 - https://github.com/yassineaboukir/CVE-2018-0296 – Cisco ASA path traversal
 - https://github.com/seclab-ucr/tcp_exploit – TCP exploit for routers
 - https://github.com/ezelf/CVE-2018-9995_dvr_credentials – DVR credentials leak
 
----
+ 
 
 ## Java Deserialization
 - https://github.com/brianwrf/hackUtils – Java deserialization exploitation
@@ -267,7 +265,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/joaomatosf/jexboss – JBoss exploitation
 - https://github.com/frohoff/ysoserial – Java deserialization exploit
 
----
+ 
 
 ## Version Control Leaks
 - https://github.com/shengqi158/svnhack – .svn leak exploit
@@ -275,7 +273,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/BugScanTeam/GitHack – .git exploit
 - https://github.com/lijiejie/GitHack – .git exploit
 
----
+ 
 
 ## MS & Office Vulns
 - https://github.com/Lz1y/CVE-2017-8759 – .NET Framework flaw
@@ -302,12 +300,12 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/sevagas/macro_pack – Macro payload packer
 - https://github.com/khr0x40sh/MacroShop – Macro delivery scripts
 
----
+ 
 
 ## AntSword Plugins
 - https://github.com/AntSword-Store/ – AntSword plugin store
 
----
+ 
 
 ## Kali Extensions
 - https://github.com/secforce/sparta – GUI pentest framework
@@ -316,7 +314,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/skavngr/rapidscan – Vulnerability scanner
 - https://github.com/koenbuyens/kalirouter – Kali router setup
 
----
+ 
 
 ## Nessus Extensions
 - https://www.tenable.com/downloads/nessus
@@ -324,14 +322,14 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/DanMcInerney/msf-autoshell – MSF auto‑shell from Nessus
 - https://github.com/MooseDojo/apt2 – Automated pentest
 
----
+ 
 
 ## AWVS Extensions
 - https://www.52pojie.cn/thread-214819-1-1.html – AWVS10.5 cracked
 - https://github.com/fnmsd/awvs_script_decode – AWVS script decoder
 - https://github.com/NS-Sp4ce/AWVS11.X-Chinese-Version – AWVS11 Chinese patch
 
----
+ 
 
 ## Burp Suite Extensions
 - https://github.com/PortSwigger – Official BApp store
@@ -350,7 +348,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/JGillam/burp-co2 – SQLi, AntSword, fuzzer
 - https://github.com/swisskyrepo/SSRFmap – SSRF detector
 
----
+ 
 
 ## SQLMap Extensions
 - https://github.com/codewatchorg/sqlipy – Burp + SQLMap
@@ -363,7 +361,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/zt2/sqli-hunter – SQLi proxy scanner
 - https://github.com/jesuiscamille/AutoSQLi – Automated SQLi
 
----
+ 
 
 ## Nmap Extensions
 - https://github.com/Ullaakut/nmap – Go Nmap library
@@ -379,7 +377,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/Rev3rseSecurity/WebMap – Nmap XML web viewer
 - https://github.com/DanMcInerney/msf-autopwn – Auto MSF from Nmap
 
----
+ 
 
 ## Metasploit Extensions
 - https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit – ML + MSF
@@ -395,7 +393,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/shizzz477/msploitego – MSF + Maltego
 - https://github.com/scriptjunkie/msfgui – MSF GUI
 
----
+ 
 
 ## CobaltStrike Extensions
 - https://mp.weixin.qq.com/s/CEI1XYkq2PZmYsP0DRU7jg – Aggressor scripting
@@ -413,7 +411,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/dcsync/pycobalt – Python API
 - https://www.cobaltstrike.com/aggressor-script/cobaltstrike.html – Aggressor docs
 
----
+
 
 ## Empire Extensions
 - https://paper.tuisec.win/detail/f3dce68a0b4baaa – Empire DA compromise
@@ -425,7 +423,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/evilcos/cookiehacker – Cookie stealer
 - https://github.com/lfzark/cookie-injecting-tools – Cookie injector
 
----
+ 
 
 ## Information Gathering
 - https://github.com/smicallef/spiderfoot – OSINT framework (GUI)
@@ -477,7 +475,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/Viralmaniar/Passhunt – Default credentials search
 - https://github.com/yassineaboukir/Asnlookup – ASN IP search
 
----
+
 
 ## Sensitive Info Leaks
 - https://github.com/Yelp/detect-secrets – Code secret detection
@@ -488,7 +486,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/FortyNorthSecurity/EyeWitness – Web/VNC/RDP screenshot
 - https://github.com/D4Vinci/Cr3dOv3r – Email credential leak checker
 
----
+
 
 ## Threat Intelligence
 - https://www.databases.today
@@ -509,7 +507,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/fireeye/GeoLogonalyzer – Geo login analysis
 - https://github.com/target/strelka – Real‑time file scan
 
----
+
 
 ## Cloud Security
 - https://github.com/stuhirst/awssecurity – AWS security list
@@ -531,7 +529,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/awslabs/git-secrets – Git secret prevention
 - https://github.com/zricethezav/gitleaks – Git leak detector
 
----
+
 
 ## Directory Discovery
 - https://github.com/maurosoria/dirsearch – Directory scanner
@@ -544,7 +542,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/Go0s/SitePathScan – Coroutine‑based dir brute
 - https://github.com/secfree/bcrpscan – Crawl‑based path scanner
 
----
+
 
 ## Local File Inclusion
 - https://github.com/hvqzao/liffy – LFI exploit
@@ -553,7 +551,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/D35m0nd142/LFISuite – LFI suite
 - https://github.com/OsandaMalith/LFiFreak – LFI tool
 
----
+
 
 ## Security Testing Frameworks
 - https://github.com/zaproxy/zaproxy – OWASP ZAP
@@ -622,7 +620,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/0x4D31/salt-scanner – Linux vuln scanner
 - https://github.com/opensec-cn/kunpeng – Go POC framework
 
----
+
 
 ## O&M & Asset Management
 - https://github.com/chaitin/cloudwalker – CloudWalker server management
@@ -645,7 +643,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/flipkart-incubator/RTA – Internal device scan
 - https://github.com/0xbug/Biu-framework – Intranet scan
 
----
+
 
 ## File Upload Vulns
 - https://github.com/UltimateHackers/Arjun – Hidden parameter finder
@@ -654,12 +652,12 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/destine21/ZIPFileRaider – ZIP upload tester
 - https://github.com/jpiechowka/zip-shotgun – ZIP upload test
 
----
+
 
 ## Port & Service Fingerprint
 - https://github.com/nmap/nmap – Nmap
 
----
+
 
 ## Lateral Movement & Hash Theft
 - http://www.oxid.it/cain.html – Cain & Abel
@@ -676,7 +674,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/GhostPack/Rubeus – Kerberos tool
 - https://github.com/m8r0wn/ldap_search – LDAP enumeration
 
----
+
 
 ## Linux PrivEsc
 - https://github.com/AlessandroZ/BeRoot – Misconfig scanner
@@ -695,7 +693,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/WazeHell/PE-Linux – Linux privesc
 - guif.re/linuxeop – Linux privesc commands
 
----
+
 
 ## Windows PrivEsc
 - http://www.fuzzysecurity.com/tutorials/16.html – Windows privesc guide
@@ -716,7 +714,7 @@ The lifecycle of a Red Team attack includes: Information Gathering, Initial Acce
 - https://github.com/alpha1ab/CVE-2018-8120 – Extended Win32k LPE
 - https://github.com/0xbadjuju/Tokenvator – Token privesc
 
----
+
 
 ## Bypass
 - https://payloads.online/archivers/2018-12-22/1 – DLL/COM Hijacking UAC bypass
