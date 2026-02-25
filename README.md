@@ -3,10 +3,6 @@
 ## Project Introduction
 The lifecycle of a Red Team attack includes: Information Gathering, Initial Access to gain privileges, Persistence, Privilege Escalation, Network Reconnaissance, Lateral Movement, Data Analysis (and further persistence based on this), and finally Cleanup & Exiting the target environment after all attacks.
 
-Another project dedicated to scanning and brute‑forcing
-Another collection of Red Team materials (non‑tools)
-Another Chinese security WIKI
-This post is from: https://www.lshack.cn/772/
 
 ---
 
